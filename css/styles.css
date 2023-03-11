@@ -193,3 +193,43 @@ footer a:link, footer a:visited {
 	width: 148px; 
 	height: 110px;
 	}
+.intro {
+	font-style: italic;
+	color: crimson;
+	font-size: large;
+}
+
+h2.time {
+	color: #f7325e;
+}
+
+p.author {
+	font-style: fantasy;
+}
+
+img.picture {
+	padding-block-start: 20px;
+}
+
+#line1 {
+	color: #B7A5DF;
+}
+
+#line2 {
+
+	font-weight: 800;
+}
+
+
+  .unimportant {
+	color: blue;
+  }
+
+  .cat-climate {
+	background-color: yellow;
+	color: red;
+
+  }
+  img {
+	float: left;
+  }
